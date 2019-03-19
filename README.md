@@ -16,7 +16,7 @@ cd Documents/robot-simulator-master/V-REP_PRO_EDU_V3_6_0_Ubuntu18_04
 ```
 Once the simulator is open, launch ipython notebook by opening another terminal and executing:
 ```
-cd Documents/robot-simulator-master/pyvrep_epuck/notebooks/FinalProject.ipynb
+cd Documents/robot-simulator-master/pyvrep_epuck/notebooks/
 jupyter notebook
 ```
-This will open the project document in a new tab in your browser.
+This will open a web page in the browser with a list of files. Click on "FinalProject.ipynb" to open the project Jupyter notebook in a new tab in your browser.
