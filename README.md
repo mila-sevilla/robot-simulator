@@ -11,12 +11,12 @@ Mini project: Creating Python interface for the epuck robot in the V-REP simulat
 
 Download this repository from Github and save it in your Documents folder. Open a terminal and enter the two following commands to start the simulator (press Enter to execute):
 ```
-cd Documents/robot-simulator/V-REP_PRO_EDU_V3_6_0_Ubuntu18_04
+cd Documents/robot-simulator-master/V-REP_PRO_EDU_V3_6_0_Ubuntu18_04
 ./vrep.sh
 ```
 Once the simulator is open, launch ipython notebook by opening another terminal and executing:
 ```
-cd Documents/robot-simulator/pyvrep_epuck/notebooks/FinalProject.ipynb
+cd Documents/robot-simulator-master/pyvrep_epuck/notebooks/
 jupyter notebook
 ```
-This will open the project document in a new tab in your browser.
+This will open a web page in the browser with a list of files. Click on "FinalProject.ipynb" to open the project Jupyter notebook in a new tab in your browser.
