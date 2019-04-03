@@ -1,6 +1,8 @@
 # robot-simulator
 Mini project: Creating Python interface for the epuck robot in the V-REP simulator
 
+![alt text](https://raw.githubusercontent.com/mila-sevilla/robot-simulator/master/vrep_scene.png)
+
 ### Requirements to run the simulator:
 
 - Ubuntu OS on your computer
